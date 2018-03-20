@@ -1,159 +1,159 @@
 
 C:\Users\Administrator>sqlplus
 
-SQL*Plus: Release 11.2.0.1.0 Production on ĞÇÆÚËÄ 3ÔÂ 15 09:46:33 2018
+SQL*Plus: Release 11.2.0.1.0 Production on æ˜ŸæœŸå›› 3æœˆ 15 09:46:33 2018
 
 Copyright (c) 1982, 2010, Oracle.  All rights reserved.
 
-ÇëÊäÈëÓÃ»§Ãû:  /as sysdba
+è¯·è¾“å…¥ç”¨æˆ·å:  /as sysdba
 
-Á¬½Óµ½:
+è¿æ¥åˆ°:
 Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
 With the Partitioning, OLAP, Data Mining and Real Application Testing options
 
 SQL>
-SQL> ´Ó Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
-With the Partitioning, OLAP, Data Mining and Real Application Testing options ¶Ï¿ª
+SQL> ä» Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options æ–­å¼€
 
 C:\Users\Administrator>sqlplus
 
-SQL*Plus: Release 11.2.0.1.0 Production on ĞÇÆÚËÄ 3ÔÂ 15 09:46:59 2018
+SQL*Plus: Release 11.2.0.1.0 Production on æ˜ŸæœŸå›› 3æœˆ 15 09:46:59 2018
 
 Copyright (c) 1982, 2010, Oracle.  All rights reserved.
 
-ÇëÊäÈëÓÃ»§Ãû:  chenyan
-ÊäÈë¿ÚÁî:
+è¯·è¾“å…¥ç”¨æˆ·å:  chenyan
+è¾“å…¥å£ä»¤:
 
-Á¬½Óµ½:
+è¿æ¥åˆ°:
 Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
 With the Partitioning, OLAP, Data Mining and Real Application Testing options
 
 SQL> exit
-´Ó Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
-With the Partitioning, OLAP, Data Mining and Real Application Testing options ¶Ï¿ª
+ä» Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options æ–­å¼€
 
 C:\Users\Administrator>sqlplus
 
-SQL*Plus: Release 11.2.0.1.0 Production on ĞÇÆÚËÄ 3ÔÂ 15 10:11:48 2018
+SQL*Plus: Release 11.2.0.1.0 Production on æ˜ŸæœŸå›› 3æœˆ 15 10:11:48 2018
 
 Copyright (c) 1982, 2010, Oracle.  All rights reserved.
 
-ÇëÊäÈëÓÃ»§Ãû:  /as sysdba\
-SP2-0306: Ñ¡ÏîÎŞĞ§¡£
-ÓÃ·¨: CONN[ECT] [{logon|/|proxy} [AS {SYSDBA|SYSOPER|SYSASM}] [edition=value]]
-ÆäÖĞ <logon> ::= <username>[/<password>][@<connect_identifier>]
+è¯·è¾“å…¥ç”¨æˆ·å:  /as sysdba\
+SP2-0306: é€‰é¡¹æ— æ•ˆã€‚
+ç”¨æ³•: CONN[ECT] [{logon|/|proxy} [AS {SYSDBA|SYSOPER|SYSASM}] [edition=value]]
+å…¶ä¸­ <logon> ::= <username>[/<password>][@<connect_identifier>]
       <proxy> ::= <proxyuser>[<username>][/<password>][@<connect_identifier>]
-ÇëÊäÈëÓÃ»§Ãû:
+è¯·è¾“å…¥ç”¨æˆ·å:
 C:\Users\Administrator>sqlplus
 
-SQL*Plus: Release 11.2.0.1.0 Production on ĞÇÆÚËÄ 3ÔÂ 15 10:12:15 2018
+SQL*Plus: Release 11.2.0.1.0 Production on æ˜ŸæœŸå›› 3æœˆ 15 10:12:15 2018
 
 Copyright (c) 1982, 2010, Oracle.  All rights reserved.
 
-ÇëÊäÈëÓÃ»§Ãû:  /as sysdba
+è¯·è¾“å…¥ç”¨æˆ·å:  /as sysdba
 
-Á¬½Óµ½:
+è¿æ¥åˆ°:
 Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
 With the Partitioning, OLAP, Data Mining and Real Application Testing options
 
 SQL> exit
-´Ó Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
-With the Partitioning, OLAP, Data Mining and Real Application Testing options ¶Ï¿ª
+ä» Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options æ–­å¼€
 
 C:\Users\Administrator>sqlplus
 
-SQL*Plus: Release 11.2.0.1.0 Production on ĞÇÆÚËÄ 3ÔÂ 15 10:13:13 2018
+SQL*Plus: Release 11.2.0.1.0 Production on æ˜ŸæœŸå›› 3æœˆ 15 10:13:13 2018
 
 Copyright (c) 1982, 2010, Oracle.  All rights reserved.
 
-ÇëÊäÈëÓÃ»§Ãû:  chenyan
-ÊäÈë¿ÚÁî:
+è¯·è¾“å…¥ç”¨æˆ·å:  chenyan
+è¾“å…¥å£ä»¤:
 
-Á¬½Óµ½:
+è¿æ¥åˆ°:
 Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
 With the Partitioning, OLAP, Data Mining and Real Application Testing options
 
 SQL>
-SQL> ´Ó Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
-With the Partitioning, OLAP, Data Mining and Real Application Testing options ¶Ï¿ª
+SQL> ä» Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options æ–­å¼€
 
 C:\Users\Administrator>creakl
-'creakl' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
-»òÅú´¦ÀíÎÄ¼ş¡£
+'creakl' ä¸æ˜¯å†…éƒ¨æˆ–å¤–éƒ¨å‘½ä»¤ï¼Œä¹Ÿä¸æ˜¯å¯è¿è¡Œçš„ç¨‹åº
+æˆ–æ‰¹å¤„ç†æ–‡ä»¶ã€‚
 
 C:\Users\Administrator>sqlplus
 
-SQL*Plus: Release 11.2.0.1.0 Production on ĞÇÆÚËÄ 3ÔÂ 15 10:15:25 2018
+SQL*Plus: Release 11.2.0.1.0 Production on æ˜ŸæœŸå›› 3æœˆ 15 10:15:25 2018
 
 Copyright (c) 1982, 2010, Oracle.  All rights reserved.
 
-ÇëÊäÈëÓÃ»§Ãû:  /as sysdba
+è¯·è¾“å…¥ç”¨æˆ·å:  /as sysdba
 
-Á¬½Óµ½:
+è¿æ¥åˆ°:
 Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
 With the Partitioning, OLAP, Data Mining and Real Application Testing options
 
 SQL>
-SQL> ´Ó Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
-With the Partitioning, OLAP, Data Mining and Real Application Testing options ¶Ï¿ª
+SQL> ä» Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options æ–­å¼€
 
 C:\Users\Administrator>noteapd
-'noteapd' ²»ÊÇÄÚ²¿»òÍâ²¿ÃüÁî£¬Ò²²»ÊÇ¿ÉÔËĞĞµÄ³ÌĞò
-»òÅú´¦ÀíÎÄ¼ş¡£
+'noteapd' ä¸æ˜¯å†…éƒ¨æˆ–å¤–éƒ¨å‘½ä»¤ï¼Œä¹Ÿä¸æ˜¯å¯è¿è¡Œçš„ç¨‹åº
+æˆ–æ‰¹å¤„ç†æ–‡ä»¶ã€‚
 
 C:\Users\Administrator>notepad
 
 C:\Users\Administrator>sqlplus
 
-SQL*Plus: Release 11.2.0.1.0 Production on ĞÇÆÚËÄ 3ÔÂ 15 10:16:03 2018
+SQL*Plus: Release 11.2.0.1.0 Production on æ˜ŸæœŸå›› 3æœˆ 15 10:16:03 2018
 
 Copyright (c) 1982, 2010, Oracle.  All rights reserved.
 
-ÇëÊäÈëÓÃ»§Ãû:  /as sysdba
+è¯·è¾“å…¥ç”¨æˆ·å:  /as sysdba
 
-Á¬½Óµ½:
+è¿æ¥åˆ°:
 Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production
 With the Partitioning, OLAP, Data Mining and Real Application Testing options
 
 SQL> select * from user_;
 select * from user_
               *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00942: è¡¨æˆ–è§†å›¾ä¸å­˜åœ¨
 
 
 SQL> select * from user_;
 select * from user_
               *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00942: è¡¨æˆ–è§†å›¾ä¸å­˜åœ¨
 
 
 SQL> select * from user;
 select * from user
               *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00903: ±íÃûÎŞĞ§
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00903: è¡¨åæ— æ•ˆ
 
 
 SQL> create table user_ (id number,name varhcar2(20),sex char(2));
 create table user_ (id number,name varhcar2(20),sex char(2))
                                            *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00907: È±Ê§ÓÒÀ¨ºÅ
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00907: ç¼ºå¤±å³æ‹¬å·
 
 
 SQL> create table user_ (id number,name varchar2(20),sex char(2));
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
 SQL> select * from user_;
 
-Î´Ñ¡¶¨ĞĞ
+æœªé€‰å®šè¡Œ
 
 SQL> insert into user_(id,name,sex) values(1,'s1','1');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user_;
 
@@ -163,7 +163,7 @@ SQL> select * from user_;
 
 SQL> insert into user_(id,name,sex) select id,name,sex from user_;
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user_;
 
@@ -188,86 +188,86 @@ SQL> select sysdate from dual;
 
 SYSDATE
 --------------
-15-3ÔÂ -18
+15-3æœˆ -18
 
 SQL> create table user1_ (id number,name varchar2(20),sex char(2),birthday date);
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
 SQL> insert into user_(id,name,sex) values(1,'s1','1','2018-01-02');
 insert into user_(id,name,sex) values(1,'s1','1','2018-01-02')
             *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00913: Öµ¹ı¶à
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00913: å€¼è¿‡å¤š
 
 
 SQL> insert into user_(id,name,sex,birthday) values(1,'s1','1','2018-01-02');
 insert into user_(id,name,sex,birthday) values(1,'s1','1','2018-01-02')
                               *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00904: "BIRTHDAY": ±êÊ¶·ûÎŞĞ§
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00904: "BIRTHDAY": æ ‡è¯†ç¬¦æ— æ•ˆ
 
 
 SQL> insert into user1_(id,name,sex,birthday) values(1,'s1','1','2018-01-02');
 insert into user1_(id,name,sex,birthday) values(1,'s1','1','2018-01-02')
                                                            *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-01861: ÎÄ×ÖÓë¸ñÊ½×Ö·û´®²»Æ¥Åä
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-01861: æ–‡å­—ä¸æ ¼å¼å­—ç¬¦ä¸²ä¸åŒ¹é…
 
 
 SQL> insert into user1_(id,name,sex,birthday) values(1,'s1','1',sysdate);
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user1_;
 
         ID NAME                 SE BIRTHDAY
 ---------- -------------------- -- --------------
-         1 s1                   1  15-3ÔÂ -18
+         1 s1                   1  15-3æœˆ -18
 
 SQL> insert into user1_(id,name,sex,birthday) values(1,'s1','1',to_date('1995-09-19','yyyy-MM-dd'));
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user1_;
 
         ID NAME                 SE BIRTHDAY
 ---------- -------------------- -- --------------
-         1 s1                   1  15-3ÔÂ -18
-         1 s1                   1  19-9ÔÂ -95
+         1 s1                   1  15-3æœˆ -18
+         1 s1                   1  19-9æœˆ -95
 
 SQL> drop table user1_;
 
-±íÒÑÉ¾³ı¡£
+è¡¨å·²åˆ é™¤ã€‚
 
 SQL> select * from user1_;
 select * from user1_
               *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00942: ±í»òÊÓÍ¼²»´æÔÚ
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00942: è¡¨æˆ–è§†å›¾ä¸å­˜åœ¨
 
 
 SQL> create table user1_ (id number,name varchar2(20),sex char(2),birthday timestamp);
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
 SQL> insert into user1_(id,name,sex,birthday) values(1,'s1','1',to_date('1995-09-19 10:53:24','yyyy-MM-dd HH:mm:ss'));
 insert into user1_(id,name,sex,birthday) values(1,'s1','1',to_date('1995-09-19 10:53:24','yyyy-MM-dd HH:mm:ss'))
                                                                                          *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-01810: ¸ñÊ½´úÂë³öÏÖÁ½´Î
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-01810: æ ¼å¼ä»£ç å‡ºç°ä¸¤æ¬¡
 
 
 SQL> insert into user1_(id,name,sex,birthday) values(1,'s1','1',to_date('1995-09-19 10:53:24','yyyy-MM-dd hh:mm:ss'));
 insert into user1_(id,name,sex,birthday) values(1,'s1','1',to_date('1995-09-19 10:53:24','yyyy-MM-dd hh:mm:ss'))
                                                                                          *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-01810: ¸ñÊ½´úÂë³öÏÖÁ½´Î
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-01810: æ ¼å¼ä»£ç å‡ºç°ä¸¤æ¬¡
 
 
 SQL> insert into user1_(id,name,sex,birthday) values(1,'s1','1',to_date('1995-09-19','yyyy-MM-dd'));
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user1_
   2  ;
@@ -277,12 +277,12 @@ SQL> select * from user1_
 BIRTHDAY
 ---------------------------------------------------------------------------
          1 s1                   1
-19-9ÔÂ -95 12.00.00.000000 ÉÏÎç
+19-9æœˆ -95 12.00.00.000000 ä¸Šåˆ
 
 
 SQL> insert into user1_(id,name,sex,birthday) values(1,'s1','1',sysdate);
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user1_;
 
@@ -291,187 +291,187 @@ SQL> select * from user1_;
 BIRTHDAY
 ---------------------------------------------------------------------------
          1 s1                   1
-19-9ÔÂ -95 12.00.00.000000 ÉÏÎç
+19-9æœˆ -95 12.00.00.000000 ä¸Šåˆ
 
          1 s1                   1
-15-3ÔÂ -18 10.55.29.000000 ÉÏÎç
+15-3æœˆ -18 10.55.29.000000 ä¸Šåˆ
 
 
 SQL> set lineseize 600;
-SP2-0158: Î´ÖªµÄ SET Ñ¡Ïî "lineseize"
+SP2-0158: æœªçŸ¥çš„ SET é€‰é¡¹ "lineseize"
 SQL> set linesize 600;
 SQL> select * from user1_;
 
         ID NAME                 SE BIRTHDAY
 ---------- -------------------- -- ---------------------------------------------------------------------------
-         1 s1                   1  19-9ÔÂ -95 12.00.00.000000 ÉÏÎç
-         1 s1                   1  15-3ÔÂ -18 10.55.29.000000 ÉÏÎç
+         1 s1                   1  19-9æœˆ -95 12.00.00.000000 ä¸Šåˆ
+         1 s1                   1  15-3æœˆ -18 10.55.29.000000 ä¸Šåˆ
 
 SQL> drop table user_;
 
-±íÒÑÉ¾³ı¡£
+è¡¨å·²åˆ é™¤ã€‚
 
 SQL> drop table user1_;\
   2
 SQL> drop table user1_;
 
-±íÒÑÉ¾³ı¡£
+è¡¨å·²åˆ é™¤ã€‚
 
 SQL> clear
 SQL> create table user_ (id number,name varchar2(30),birthday date,sex char(1));
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
-SQL> insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),'1');
+SQL> insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),'1');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> SELECT * FROM user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
 
 SQL> set linesize 500;
 SQL> SELECT * FROM user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
 
 SQL> set pagesize 50;
 SQL> SELECT * FROM user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
 
-SQL> insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),'1');
+SQL> insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),'1');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> drop table user_;
 
-±íÒÑÉ¾³ı¡£
+è¡¨å·²åˆ é™¤ã€‚
 
 SQL> create table user_ (id number primary key,name varchar2(30),birthday date,sex char(1));
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
-SQL> insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),'1');
+SQL> insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),'1');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
-SQL> insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),'1');
-insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),'1')
+SQL> insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),'1');
+insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),'1')
 *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00001: Î¥·´Î¨Ò»Ô¼ÊøÌõ¼ş (SYS.SYS_C0011101)
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00001: è¿åå”¯ä¸€çº¦æŸæ¡ä»¶ (SYS.SYS_C0011101)
 
 
-SQL> insert into user_ values(1,'ÕÅÈı1',to_date('1992-01-07','yyyy-MM-dd'),'1');
-insert into user_ values(1,'ÕÅÈı1',to_date('1992-01-07','yyyy-MM-dd'),'1')
+SQL> insert into user_ values(1,'å¼ ä¸‰1',to_date('1992-01-07','yyyy-MM-dd'),'1');
+insert into user_ values(1,'å¼ ä¸‰1',to_date('1992-01-07','yyyy-MM-dd'),'1')
 *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00001: Î¥·´Î¨Ò»Ô¼ÊøÌõ¼ş (SYS.SYS_C0011101)
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00001: è¿åå”¯ä¸€çº¦æŸæ¡ä»¶ (SYS.SYS_C0011101)
 
 
-SQL> insert into user_ values(2,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),'1');
+SQL> insert into user_ values(2,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),'1');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
-SQL> insert into user_ values(3,'ÀîËÄ',to_date('1992-01-07','yyyy-MM-dd'),'1');
+SQL> insert into user_ values(3,'æå››',to_date('1992-01-07','yyyy-MM-dd'),'1');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
-         2 ÕÅÈı                           07-1ÔÂ -92     1
-         3 ÀîËÄ                           07-1ÔÂ -92     1
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
+         2 å¼ ä¸‰                           07-1æœˆ -92     1
+         3 æå››                           07-1æœˆ -92     1
 
 SQL> drop table user_;
 
-±íÒÑÉ¾³ı¡£
+è¡¨å·²åˆ é™¤ã€‚
 
 SQL> create table user_ (id number primary key,name varchar2(30),birthday date,sex char(1));
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
-SQL> insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'));
-insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'))
+SQL> insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'));
+insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'))
             *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00947: Ã»ÓĞ×ã¹»µÄÖµ
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00947: æ²¡æœ‰è¶³å¤Ÿçš„å€¼
 
 
-SQL> insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),null);
+SQL> insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),null);
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92
+         1 å¼ ä¸‰                           07-1æœˆ -92
 
 SQL> drop table user_;
 
-±íÒÑÉ¾³ı¡£
+è¡¨å·²åˆ é™¤ã€‚
 
 SQL> create table user_ (id number primary key,name varchar2(30),birthday date,sex char(1) not null);
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
-SQL> insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),null);
-insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),null)
+SQL> insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),null);
+insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),null)
                                                                      *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-01400: ÎŞ·¨½« NULL ²åÈë ("SYS"."USER_"."SEX")
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-01400: æ— æ³•å°† NULL æ’å…¥ ("SYS"."USER_"."SEX")
 
 
-SQL> insert into user_ values(1,'ÕÅÈı',to_date('1992-01-07','yyyy-MM-dd'),'1');
+SQL> insert into user_ values(1,'å¼ ä¸‰',to_date('1992-01-07','yyyy-MM-dd'),'1');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
-SQL> insert into user_ values(2,'ÀîËÄ',to_date('1992-02-07','yyyy-MM-dd'),'2');
+SQL> insert into user_ values(2,'æå››',to_date('1992-02-07','yyyy-MM-dd'),'2');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
-SQL> insert into user_ values(3,'ÍõÎå',to_date('1992-02-07','yyyy-MM-dd'),'2');
+SQL> insert into user_ values(3,'ç‹äº”',to_date('1992-02-07','yyyy-MM-dd'),'2');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
-         2 ÀîËÄ                           07-2ÔÂ -92     2
-         3 ÍõÎå                           07-2ÔÂ -92     2
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
+         2 æå››                           07-2æœˆ -92     2
+         3 ç‹äº”                           07-2æœˆ -92     2
 
-SQL> insert into user_ values(3,'ÍõÎå',to_date('1992-02-07','yyyy-MM-dd'),'2');
-insert into user_ values(3,'ÍõÎå',to_date('1992-02-07','yyyy-MM-dd'),'2')
+SQL> insert into user_ values(3,'ç‹äº”',to_date('1992-02-07','yyyy-MM-dd'),'2');
+insert into user_ values(3,'ç‹äº”',to_date('1992-02-07','yyyy-MM-dd'),'2')
 *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00001: Î¥·´Î¨Ò»Ô¼ÊøÌõ¼ş (SYS.SYS_C0011104)
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00001: è¿åå”¯ä¸€çº¦æŸæ¡ä»¶ (SYS.SYS_C0011104)
 
 
 SQL> select * from user_cons_columns where column_name='ID' AND owner='chenyan';
 
-Î´Ñ¡¶¨ĞĞ
+æœªé€‰å®šè¡Œ
 
 SQL> select * from user_cons_columns where column_name='ID' AND owner='CHENYAN';
 
-Î´Ñ¡¶¨ĞĞ
+æœªé€‰å®šè¡Œ
 
 SQL> select * from user_cons_columns where column_name='ID' AND tablename='USER_';
 select * from user_cons_columns where column_name='ID' AND tablename='USER_'
                                                            *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00904: "TABLENAME": ±êÊ¶·ûÎŞĞ§
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00904: "TABLENAME": æ ‡è¯†ç¬¦æ— æ•ˆ
 
 
 SQL> select * from user_cons_columns where column_name='ID' AND table_name='USER_';
@@ -493,131 +493,131 @@ ID
 
 SQL> alter table user_ drop constraint SYS_C0011104;
 
-±íÒÑ¸ü¸Ä¡£
+è¡¨å·²æ›´æ”¹ã€‚
 
-SQL> insert into user_ values(3,'ÍõÎå',to_date('1992-02-07','yyyy-MM-dd'),'2');
+SQL> insert into user_ values(3,'ç‹äº”',to_date('1992-02-07','yyyy-MM-dd'),'2');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
-         2 ÀîËÄ                           07-2ÔÂ -92     2
-         3 ÍõÎå                           07-2ÔÂ -92     2
-         3 ÍõÎå                           07-2ÔÂ -92     2
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
+         2 æå››                           07-2æœˆ -92     2
+         3 ç‹äº”                           07-2æœˆ -92     2
+         3 ç‹äº”                           07-2æœˆ -92     2
 
 SQL> alter table user_ add constraint primary key (id);
 alter table user_ add constraint primary key (id)
                                              *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00902: ÎŞĞ§Êı¾İÀàĞÍ
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00902: æ— æ•ˆæ•°æ®ç±»å‹
 
 
 SQL> alter table user_ add constraint primary key(ID);
 alter table user_ add constraint primary key(ID)
                                             *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00902: ÎŞĞ§Êı¾İÀàĞÍ
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00902: æ— æ•ˆæ•°æ®ç±»å‹
 
 
 SQL> alter table user_ add constraint pk_user primary key(ID);
 alter table user_ add constraint pk_user primary key(ID)
                                  *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-02437: ÎŞ·¨ÑéÖ¤ (SYS.PK_USER) - Î¥·´Ö÷¼ü
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-02437: æ— æ³•éªŒè¯ (SYS.PK_USER) - è¿åä¸»é”®
 
 
 SQL> select * from user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
-         2 ÀîËÄ                           07-2ÔÂ -92     2
-         3 ÍõÎå                           07-2ÔÂ -92     2
-         3 ÍõÎå                           07-2ÔÂ -92     2
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
+         2 æå››                           07-2æœˆ -92     2
+         3 ç‹äº”                           07-2æœˆ -92     2
+         3 ç‹äº”                           07-2æœˆ -92     2
 
 SQL> select rowid, a.* from user_;
 select rowid, a.* from user_
                 *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00904: "A": ±êÊ¶·ûÎŞĞ§
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00904: "A": æ ‡è¯†ç¬¦æ— æ•ˆ
 
 
 SQL> select rowid, a.* from user_ a;
 
 ROWID                      ID NAME                           BIRTHDAY       S
 ------------------ ---------- ------------------------------ -------------- -
-AAASNpAABAAAVaxAAA          1 ÕÅÈı                           07-1ÔÂ -92     1
-AAASNpAABAAAVaxAAB          2 ÀîËÄ                           07-2ÔÂ -92     2
-AAASNpAABAAAVaxAAC          3 ÍõÎå                           07-2ÔÂ -92     2
-AAASNpAABAAAVaxAAD          3 ÍõÎå                           07-2ÔÂ -92     2
+AAASNpAABAAAVaxAAA          1 å¼ ä¸‰                           07-1æœˆ -92     1
+AAASNpAABAAAVaxAAB          2 æå››                           07-2æœˆ -92     2
+AAASNpAABAAAVaxAAC          3 ç‹äº”                           07-2æœˆ -92     2
+AAASNpAABAAAVaxAAD          3 ç‹äº”                           07-2æœˆ -92     2
 
 SQL> delete from user_ a where a.rowid = 'AAASNpAABAAAVaxAAD'
   2  ;
 
-ÒÑÉ¾³ı 1 ĞĞ¡£
+å·²åˆ é™¤ 1 è¡Œã€‚
 
 SQL> alter table user_ add constraint pk_user primary key(ID);
 
-±íÒÑ¸ü¸Ä¡£
+è¡¨å·²æ›´æ”¹ã€‚
 
-SQL> insert into user_ values(3,'ÍõÎå',to_date('1992-02-07','yyyy-MM-dd'),'2');
-insert into user_ values(3,'ÍõÎå',to_date('1992-02-07','yyyy-MM-dd'),'2')
+SQL> insert into user_ values(3,'ç‹äº”',to_date('1992-02-07','yyyy-MM-dd'),'2');
+insert into user_ values(3,'ç‹äº”',to_date('1992-02-07','yyyy-MM-dd'),'2')
 *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00001: Î¥·´Î¨Ò»Ô¼ÊøÌõ¼ş (SYS.PK_USER)
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00001: è¿åå”¯ä¸€çº¦æŸæ¡ä»¶ (SYS.PK_USER)
 
 
 SQL> select rowid,* from user_;
 select rowid,* from user_
              *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00936: È±Ê§±í´ïÊ½
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00936: ç¼ºå¤±è¡¨è¾¾å¼
 
 
 SQL> select * from user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
-         2 ÀîËÄ                           07-2ÔÂ -92     2
-         3 ÍõÎå                           07-2ÔÂ -92     2
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
+         2 æå››                           07-2æœˆ -92     2
+         3 ç‹äº”                           07-2æœˆ -92     2
 
 SQL> select 1+1,a.* from user_ a;
 
        1+1         ID NAME                           BIRTHDAY       S
 ---------- ---------- ------------------------------ -------------- -
-         2          1 ÕÅÈı                           07-1ÔÂ -92     1
-         2          2 ÀîËÄ                           07-2ÔÂ -92     2
-         2          3 ÍõÎå                           07-2ÔÂ -92     2
+         2          1 å¼ ä¸‰                           07-1æœˆ -92     1
+         2          2 æå››                           07-2æœˆ -92     2
+         2          3 ç‹äº”                           07-2æœˆ -92     2
 
 SQL> create table goods_(id number primary key, name varchar2(50) not null,price number not null,produc_date date,produc
 _address varchar(100));
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
 SQL> create table order_(id number primary key, goods_name varchar2(50),goods_price number,goods_total_price number,good
 s_quantity number,user_name varchar(50),order_time timestamp);
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
 SQL> select * from user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
-         2 ÀîËÄ                           07-2ÔÂ -92     2
-         3 ÍõÎå                           07-2ÔÂ -92     2
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
+         2 æå››                           07-2æœˆ -92     2
+         3 ç‹äº”                           07-2æœˆ -92     2
 
-SQL> insert into goods_ values(1,'³äÆøÍŞÍŞ',15,to_date('2018-03-15','yyyy-MM-dd'),'¼ÃÄÏÊĞÀúÏÂÇøÀú¶«ÉÌÎñ´óÏÃ1408');
+SQL> insert into goods_ values(1,'å……æ°”å¨ƒå¨ƒ',15,to_date('2018-03-15','yyyy-MM-dd'),'æµå—å¸‚å†ä¸‹åŒºå†ä¸œå•†åŠ¡å¤§å¦1408');
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
-SQL> insert into order_ values(1,'³äÆøÍŞÍŞ',15,150,10,'ÕÅÈı',sysdate);
+SQL> insert into order_ values(1,'å……æ°”å¨ƒå¨ƒ',15,150,10,'å¼ ä¸‰',sysdate);
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from order_;
 
@@ -625,19 +625,19 @@ SQL> select * from order_;
                                       ORDER_TIME
 ---------- -------------------------------------------------- ----------- ----------------- -------------- -------------
 ------------------------------------- ---------------------------------------------------------------------------
-         1 ³äÆøÍŞÍŞ                                                    15               150             10 ÕÅÈı
-                                      15-3ÔÂ -18 03.06.52.000000 ÏÂÎç
+         1 å……æ°”å¨ƒå¨ƒ                                                    15               150             10 å¼ ä¸‰
+                                      15-3æœˆ -18 03.06.52.000000 ä¸‹åˆ
 
-SQL> update goods_ set name = '°Å±ÈÍŞÍŞ' where id = 1;
+SQL> update goods_ set name = 'èŠ­æ¯”å¨ƒå¨ƒ' where id = 1;
 
-ÒÑ¸üĞÂ 1 ĞĞ¡£
+å·²æ›´æ–° 1 è¡Œã€‚
 
 SQL> select * from goods_;
 
         ID NAME                                                    PRICE PRODUC_DATE    PRODUC_ADDRESS
 ---------- -------------------------------------------------- ---------- -------------- --------------------------------
 --------------------------------------------------------------------
-         1 °Å±ÈÍŞÍŞ                                                   15 15-3ÔÂ -18     ¼ÃÄÏÊĞÀúÏÂÇøÀú¶«ÉÌÎñ´óÏÃ1408
+         1 èŠ­æ¯”å¨ƒå¨ƒ                                                   15 15-3æœˆ -18     æµå—å¸‚å†ä¸‹åŒºå†ä¸œå•†åŠ¡å¤§å¦1408
 
 SQL> select * from order_;
 
@@ -645,132 +645,132 @@ SQL> select * from order_;
                                       ORDER_TIME
 ---------- -------------------------------------------------- ----------- ----------------- -------------- -------------
 ------------------------------------- ---------------------------------------------------------------------------
-         1 ³äÆøÍŞÍŞ                                                    15               150             10 ÕÅÈı
-                                      15-3ÔÂ -18 03.06.52.000000 ÏÂÎç
+         1 å……æ°”å¨ƒå¨ƒ                                                    15               150             10 å¼ ä¸‰
+                                      15-3æœˆ -18 03.06.52.000000 ä¸‹åˆ
 
 SQL> drop table order_;
 
-±íÒÑÉ¾³ı¡£
+è¡¨å·²åˆ é™¤ã€‚
 
 SQL> create table order_(id number primary key, goods_id number,goods_quantity number,user_id number,order_time timestam
 p);
 
-±íÒÑ´´½¨¡£
+è¡¨å·²åˆ›å»ºã€‚
 
 SQL> select * from goods_;
 
         ID NAME                                                    PRICE PRODUC_DATE    PRODUC_ADDRESS
 ---------- -------------------------------------------------- ---------- -------------- --------------------------------
 --------------------------------------------------------------------
-         1 °Å±ÈÍŞÍŞ                                                   15 15-3ÔÂ -18     ¼ÃÄÏÊĞÀúÏÂÇøÀú¶«ÉÌÎñ´óÏÃ1408
+         1 èŠ­æ¯”å¨ƒå¨ƒ                                                   15 15-3æœˆ -18     æµå—å¸‚å†ä¸‹åŒºå†ä¸œå•†åŠ¡å¤§å¦1408
 
 SQL> select * from user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
-         2 ÀîËÄ                           07-2ÔÂ -92     2
-         3 ÍõÎå                           07-2ÔÂ -92     2
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
+         2 æå››                           07-2æœˆ -92     2
+         3 ç‹äº”                           07-2æœˆ -92     2
 
 SQL> insert into order_(1,1,10,2,sysdate);
 insert into order_(1,1,10,2,sysdate)
                    *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00928: È±Ê§ SELECT ¹Ø¼ü×Ö
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00928: ç¼ºå¤± SELECT å…³é”®å­—
 
 
 SQL> insert into order_ values(1,1,10,2,sysdate);
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from order_;
 
         ID   GOODS_ID GOODS_QUANTITY    USER_ID ORDER_TIME
 ---------- ---------- -------------- ---------- ------------------------------------------------------------------------
 ---
-         1          1             10          2 15-3ÔÂ -18 03.36.32.000000 ÏÂÎç
+         1          1             10          2 15-3æœˆ -18 03.36.32.000000 ä¸‹åˆ
 
 SQL> select * from goods_ where id = 1;
 
         ID NAME                                                    PRICE PRODUC_DATE    PRODUC_ADDRESS
 ---------- -------------------------------------------------- ---------- -------------- --------------------------------
 --------------------------------------------------------------------
-         1 °Å±ÈÍŞÍŞ                                                   15 15-3ÔÂ -18     ¼ÃÄÏÊĞÀúÏÂÇøÀú¶«ÉÌÎñ´óÏÃ1408
+         1 èŠ­æ¯”å¨ƒå¨ƒ                                                   15 15-3æœˆ -18     æµå—å¸‚å†ä¸‹åŒºå†ä¸œå•†åŠ¡å¤§å¦1408
 
 SQL> select *from user_ where id = 2;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         2 ÀîËÄ                           07-2ÔÂ -92     2
+         2 æå››                           07-2æœˆ -92     2
 
 SQL> alter table order_ add constraint fk_goods foreign key (goods_id) references goods_(id);
 
-±íÒÑ¸ü¸Ä¡£
+è¡¨å·²æ›´æ”¹ã€‚
 
 SQL> select * from order_;
 
         ID   GOODS_ID GOODS_QUANTITY    USER_ID ORDER_TIME
 ---------- ---------- -------------- ---------- ------------------------------------------------------------------------
 ---
-         1          1             10          2 15-3ÔÂ -18 03.36.32.000000 ÏÂÎç
+         1          1             10          2 15-3æœˆ -18 03.36.32.000000 ä¸‹åˆ
 
 SQL> insert into order_ values(1,3,10,2,sysdate);
 insert into order_ values(1,3,10,2,sysdate)
 *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-00001: Î¥·´Î¨Ò»Ô¼ÊøÌõ¼ş (SYS.SYS_C0011111)
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-00001: è¿åå”¯ä¸€çº¦æŸæ¡ä»¶ (SYS.SYS_C0011111)
 
 
 SQL> alter table user_ drop constraint SYS_C0011111;
 alter table user_ drop constraint SYS_C0011111
                                   *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-02443: ÎŞ·¨É¾³ıÔ¼ÊøÌõ¼ş - ²»´æÔÚµÄÔ¼ÊøÌõ¼ş
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-02443: æ— æ³•åˆ é™¤çº¦æŸæ¡ä»¶ - ä¸å­˜åœ¨çš„çº¦æŸæ¡ä»¶
 
 
 SQL> alter table order_ drop constraint SYS_C0011111;
 
-±íÒÑ¸ü¸Ä¡£
+è¡¨å·²æ›´æ”¹ã€‚
 
 SQL> insert into order_ values(1,3,10,2,sysdate);
 insert into order_ values(1,3,10,2,sysdate)
 *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-02291: Î¥·´ÍêÕûÔ¼ÊøÌõ¼ş (SYS.FK_GOODS) - Î´ÕÒµ½¸¸Ïî¹Ø¼ü×Ö
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-02291: è¿åå®Œæ•´çº¦æŸæ¡ä»¶ (SYS.FK_GOODS) - æœªæ‰¾åˆ°çˆ¶é¡¹å…³é”®å­—
 
 
 SQL> alter table order_ drop constraint fk_goods;
 
-±íÒÑ¸ü¸Ä¡£
+è¡¨å·²æ›´æ”¹ã€‚
 
 SQL> insert into order_ values(1,3,10,2,sysdate);
 
-ÒÑ´´½¨ 1 ĞĞ¡£
+å·²åˆ›å»º 1 è¡Œã€‚
 
 SQL> select * from order_;
 
         ID   GOODS_ID GOODS_QUANTITY    USER_ID ORDER_TIME
 ---------- ---------- -------------- ---------- ------------------------------------------------------------------------
 ---
-         1          1             10          2 15-3ÔÂ -18 03.36.32.000000 ÏÂÎç
-         1          3             10          2 15-3ÔÂ -18 03.44.09.000000 ÏÂÎç
+         1          1             10          2 15-3æœˆ -18 03.36.32.000000 ä¸‹åˆ
+         1          3             10          2 15-3æœˆ -18 03.44.09.000000 ä¸‹åˆ
 
 SQL> delete from order_ where goods_id = 3;
 
-ÒÑÉ¾³ı 1 ĞĞ¡£
+å·²åˆ é™¤ 1 è¡Œã€‚
 
 SQL> select * from order_;
 
         ID   GOODS_ID GOODS_QUANTITY    USER_ID ORDER_TIME
 ---------- ---------- -------------- ---------- ------------------------------------------------------------------------
 ---
-         1          1             10          2 15-3ÔÂ -18 03.36.32.000000 ÏÂÎç
+         1          1             10          2 15-3æœˆ -18 03.36.32.000000 ä¸‹åˆ
 
 SQL> select a.id,b.name,b.price, a.goods_quantity*b.price from order_ a left join goods_ b on a.goods_id = b.id;
 
         ID NAME                                                    PRICE A.GOODS_QUANTITY*B.PRICE
 ---------- -------------------------------------------------- ---------- ------------------------
-         1 °Å±ÈÍŞÍŞ                                                   15                      150
+         1 èŠ­æ¯”å¨ƒå¨ƒ                                                   15                      150
 
 SQL> select a.id,b.name,b.price, a.goods_quantity*b.price,c.name from order_ a left join goods_ b on a.goods_id = b.id l
 eft join user_ c on a.user_id =c.id
@@ -779,35 +779,35 @@ eft join user_ c on a.user_id =c.id
         ID NAME                                                    PRICE A.GOODS_QUANTITY*B.PRICE NAME
 ---------- -------------------------------------------------- ---------- ------------------------ ----------------------
 --------
-         1 °Å±ÈÍŞÍŞ                                                   15                      150 ÀîËÄ
+         1 èŠ­æ¯”å¨ƒå¨ƒ                                                   15                      150 æå››
 
 SQL> select * from order_;
 
         ID   GOODS_ID GOODS_QUANTITY    USER_ID ORDER_TIME
 ---------- ---------- -------------- ---------- ------------------------------------------------------------------------
 ---
-         1          1             10          2 15-3ÔÂ -18 03.36.32.000000 ÏÂÎç
+         1          1             10          2 15-3æœˆ -18 03.36.32.000000 ä¸‹åˆ
 
 SQL> select a.id,(select b.name from goods_ b where b.id = a.goods_id) from order_ a;
 
         ID (SELECTB.NAMEFROMGOODS_BWHEREB.ID=A.GOODS_ID)
 ---------- --------------------------------------------------
-         1 °Å±ÈÍŞÍŞ
+         1 èŠ­æ¯”å¨ƒå¨ƒ
 
 SQL> select a.id,(select b.name from goods_ b where b.id = a.goods_id),(select c.price from goods_ c where c.id=a.goods_
 id) from order_ a;
 
         ID (SELECTB.NAMEFROMGOODS_BWHEREB.ID=A.GOODS_ID)      (SELECTC.PRICEFROMGOODS_CWHEREC.ID=A.GOODS_ID)
 ---------- -------------------------------------------------- ----------------------------------------------
-         1 °Å±ÈÍŞÍŞ                                                                                       15
+         1 èŠ­æ¯”å¨ƒå¨ƒ                                                                                       15
 
 SQL> select a.id,(select b.name from goods_ b where b.id = a.goods_id)*(select c.price from goods_ c where c.id=a.goods_
 id) from order_ a;
 select a.id,(select b.name from goods_ b where b.id = a.goods_id)*(select c.price from goods_ c where c.id=a.goods_id) f
 rom order_ a
                     *
-µÚ 1 ĞĞ³öÏÖ´íÎó:
-ORA-01722: ÎŞĞ§Êı×Ö
+ç¬¬ 1 è¡Œå‡ºç°é”™è¯¯:
+ORA-01722: æ— æ•ˆæ•°å­—
 
 
 SQL> select a.id,(select b.name from goods_ b where b.id = a.goods_id),(select c.price from goods_ c where c.id=a.goods_
@@ -817,7 +817,7 @@ id)*a.goods_quantity from order_ a;
 NTITY
 ---------- -------------------------------------------------- ----------------------------------------------------------
 -----
-         1 °Å±ÈÍŞÍŞ                                                                                               150
+         1 èŠ­æ¯”å¨ƒå¨ƒ                                                                                               150
 
 SQL> select a.id,(select b.name from goods_ b where b.id = a.goods_id),(select c.price from goods_ c where c.id=a.goods_
 id)*a.goods_quantity,(select d.name from user_ d where d.id = a.user_id) from order_ a;
@@ -826,16 +826,16 @@ id)*a.goods_quantity,(select d.name from user_ d where d.id = a.user_id) from or
 NTITY (SELECTD.NAMEFROMUSER_DWHERED.
 ---------- -------------------------------------------------- ----------------------------------------------------------
 ----- ------------------------------
-         1 °Å±ÈÍŞÍŞ                                                                                               150 Àî
-ËÄ
+         1 èŠ­æ¯”å¨ƒå¨ƒ                                                                                               150 æ
+å››
 
 SQL> select * from user_;
 
         ID NAME                           BIRTHDAY       S
 ---------- ------------------------------ -------------- -
-         1 ÕÅÈı                           07-1ÔÂ -92     1
-         2 ÀîËÄ                           07-2ÔÂ -92     2
-         3 ÍõÎå                           07-2ÔÂ -92     2
+         1 å¼ ä¸‰                           07-1æœˆ -92     1
+         2 æå››                           07-2æœˆ -92     2
+         3 ç‹äº”                           07-2æœˆ -92     2
 
 SQL> select count(*),sex from user_ group by sex;
 
@@ -880,5 +880,4 @@ SQL> select count(*) from user_cons_columns;
 
 SQL>
 
-
-
+111111111111111111111111222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
